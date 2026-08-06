@@ -1,0 +1,9 @@
+# submission archive (contents are tracked individually)
+*.zip
+
+# empty scratch file
+try.py
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
